@@ -4,6 +4,7 @@ This repository contains the implementation of RISC-V Single Cycle Cores done by
 | Core  | Trainee  | Academic Year  | Batch  |
 |---|---|---|---|
 | [Aghas Core](https://github.com/merledu/Riscv-Single-Cycle-Cores/tree/main/Aghaas-Core)  | Agha Muqarib  | Final  |  03 |
+| [Ghauri Core](https://github.com/masfiyan/Riscv-Single-Cycle-Cores/tree/main/Ghauri-Core)  | Muhammad Asfiyan Shivani  | 2nd  |  05 |
 | [Al Battar Core](https://github.com/merledu/Riscv-Single-Cycle-Cores/tree/main/Al%20Battar)  | Syed Owais Ali Shah  | 2nd  |  05 |
 | [**Aleph Core**](https://github.com/merledu/Riscv-Single-Cycle-Cores/tree/main/Aleph-Core)  | [**Abdul Samad Siddiqui**](https://github.com/samadpls)  |  2nd | 05  |
 | [**Arsh Core**](https://github.com/merledu/Riscv-Single-Cycle-Cores/tree/main/Arsh-Core)  | [**Hamna Mohiuddin**](https://github.com/hamnamohi) |  2nd | 05  |
